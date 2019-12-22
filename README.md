@@ -1,1 +1,0 @@
-# diploma-adaptive-web-design
