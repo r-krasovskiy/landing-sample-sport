@@ -557,7 +557,7 @@ body {
     .beactive-pic {
         height: 351px;
         width: 100%;
-        background-image: url(images/be-active_640.jpg);
+        /*background-image: url(images/be-active_640.jpg);*/
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
