@@ -21,14 +21,14 @@ body {
 
 @font-face {
     font-family: 'Open Sans';
-    src: url(https://github.com/roman-krasowski/diploma-adaptive-web-design/blob/master/fonts/OpenSans-Regular.woff);
+    src: url(fonts/OpenSans-Regular.woff);
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Open Sans';
-    src: url(https://github.com/roman-krasowski/diploma-adaptive-web-design/blob/master/fonts/OpenSans-Bold.woff);
+    src: url(fonts/OpenSans-Bold.woff);
     font-weight: 700;
     font-style: normal;
 }
@@ -40,7 +40,7 @@ body {
     .header {
         box-sizing: border-box;
         background-color: #1d18b1;
-        background-image: url(https://raw.githubusercontent.com/roman-krasowski/diploma-adaptive-web-design/master/images/football_767.jpg);
+        background-image: url(images/football_767.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center center;
@@ -85,7 +85,6 @@ body {
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        min-height: 260px;
         position: relative;
         z-index: 1;
         padding: 0 25px;
@@ -184,7 +183,7 @@ body {
     .athlets-head:before {
         position: absolute;
         content: "";
-        background-image: url(https://raw.githubusercontent.com/roman-krasowski/diploma-adaptive-web-design/master/images/footballer_192.png);
+        background-image: url(images/footballer_192.png);
         background-repeat: no-repeat;
         background-position: center center;
         height: 290px;
@@ -371,7 +370,7 @@ body {
     .players-head:before {
         position: absolute;
         content: "";
-        background-image: url(https://raw.githubusercontent.com/roman-krasowski/diploma-adaptive-web-design/master/images/basketballer_302.png);
+        background-image: url(images/basketballer_302.png);
         background-repeat: no-repeat;
         background-position: center center;
         height: 260px;
@@ -558,7 +557,7 @@ body {
     .beactive-pic {
         height: 351px;
         width: 100%;
-        background-image: url(https://raw.githubusercontent.com/roman-krasowski/diploma-adaptive-web-design/master/images/be-active_640.jpg);
+        background-image: url(images/be-active_640.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -624,7 +623,7 @@ body {
     .findcontact-pic {
         height: 351px;
         width: 100%;
-        background-image: url(https://raw.githubusercontent.com/roman-krasowski/diploma-adaptive-web-design/master/images/find-contact_640.jpg);
+        background-image: url(images/find-contact_640.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -663,7 +662,7 @@ body {
     .workit-pic {
         height: 351px;
         width: 100%;
-        background-image: url(https://raw.githubusercontent.com/roman-krasowski/diploma-adaptive-web-design/master/images/work-it_640.jpg);
+        background-image: url(images/work-it_640.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -695,7 +694,7 @@ body {
     .footer {
         box-sizing: border-box;
         background-color: #1d18b1;
-        background-image: url(https://raw.githubusercontent.com/roman-krasowski/diploma-adaptive-web-design/master/images/game_767.jpg);
+        background-image: url(images/game_767.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center center;
@@ -793,7 +792,7 @@ body {
     .header {
         box-sizing: border-box;
         background-color: #1d18b1;
-        background-image: url(https://raw.githubusercontent.com/roman-krasowski/diploma-adaptive-web-design/master/images/football_767.jpg);
+        background-image: url(images/football_767.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center center;
@@ -838,7 +837,6 @@ body {
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        min-height: 505px;
         position: relative;
         z-index: 1;
         padding: 0 80px;
@@ -928,7 +926,7 @@ body {
     .athlets:before {
         position: absolute;
         content: "";
-        background-image: url(https://raw.githubusercontent.com/roman-krasowski/diploma-adaptive-web-design/master/images/footballer_497.png);
+        background-image: url(images/footballer_497.png);
         background-repeat: no-repeat;
         height: 650px;
         width: 70%;
@@ -1116,7 +1114,7 @@ body {
     .players:before {
         position: absolute;
         content: "";
-        background-image: url(https://raw.githubusercontent.com/roman-krasowski/diploma-adaptive-web-design/master/images/basketballer_436.png);
+        background-image: url(images/basketballer_436.png);
         background-repeat: no-repeat;
         background-position: right;
         height: 520px;
@@ -1314,7 +1312,7 @@ body {
     .beactive-pic {
         height: 585px;
         width: 100%;
-        background-image: url(https://raw.githubusercontent.com/roman-krasowski/diploma-adaptive-web-design/master/images/be-active_960.jpg);
+        background-image: url(images/be-active_960.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -1380,7 +1378,7 @@ body {
     .findcontact-pic {
         height: 585px;
         width: 100%;
-        background-image: url(https://raw.githubusercontent.com/roman-krasowski/diploma-adaptive-web-design/master/images/find-contact_960.jpg);
+        background-image: url(images/find-contact_960.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -1419,7 +1417,7 @@ body {
     .workit-pic {
         height: 583px;
         width: 100%;
-        background-image: url(https://raw.githubusercontent.com/roman-krasowski/diploma-adaptive-web-design/master/images/work-it_960.jpg);
+        background-image: url(images/work-it_960.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -1451,7 +1449,7 @@ body {
     .footer {
         box-sizing: border-box;
         background-color: #1d18b1;
-        background-image: url(https://raw.githubusercontent.com/roman-krasowski/diploma-adaptive-web-design/master/images/game_1280.jpg);
+        background-image: url(images/game_1280.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center center;
@@ -1564,7 +1562,7 @@ body {
     .header {
         box-sizing: border-box;
         background-color: #1d18b1;
-        background-image: url(https://raw.githubusercontent.com/roman-krasowski/diploma-adaptive-web-design/master/images/football_1920.jpg);
+        background-image: url(images/football_1920.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center center;
@@ -1609,7 +1607,6 @@ body {
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        min-height: 505px;
         position: relative;
         z-index: 1;
         padding: 0 130px;
@@ -1700,7 +1697,7 @@ body {
     .athlets:before {
         position: absolute;
         content: "";
-        background-image: url(https://raw.githubusercontent.com/roman-krasowski/diploma-adaptive-web-design/master/images/footballer_566.png);
+        background-image: url(images/footballer_566.png);
         background-repeat: no-repeat;
         height: 920px;
         width: 570px;
@@ -1891,7 +1888,7 @@ body {
     .players:before {
         position: absolute;
         content: "";
-        background-image: url(https://raw.githubusercontent.com/roman-krasowski/diploma-adaptive-web-design/master/images/basketballer_991.png);
+        background-image: url(images/basketballer_991.png);
         background-repeat: no-repeat;
         height: 820px;
         width: 60%;
@@ -2087,7 +2084,7 @@ body {
     }
     .beactive-pic {
         width: 50%;
-        background-image: url(https://raw.githubusercontent.com/roman-krasowski/diploma-adaptive-web-design/master/images/be-active_1024.jpg);
+        background-image: url(images/be-active_1024.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -2152,7 +2149,7 @@ body {
     }
     .findcontact-pic {
         width: 50%;
-        background-image: url(https://raw.githubusercontent.com/roman-krasowski/diploma-adaptive-web-design/master/images/find-contact_1024.jpg);
+        background-image: url(images/find-contact_1024.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -2193,7 +2190,7 @@ body {
     }
     .workit-pic {
         width: 50%;
-        background-image: url(https://raw.githubusercontent.com/roman-krasowski/diploma-adaptive-web-design/master/images/work-it_1024.jpg);
+        background-image: url(images/work-it_1024.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -2225,7 +2222,7 @@ body {
     .footer {
         box-sizing: border-box;
         background-color: #1d18b1;
-        background-image: url(https://raw.githubusercontent.com/roman-krasowski/diploma-adaptive-web-design/master/images/game_1920.jpg);
+        background-image: url(images/game_1920.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center center;
@@ -2237,6 +2234,8 @@ body {
         flex-wrap: wrap;
         flex-direction: column;
         align-items: center;
+        padding-top: 75px;
+        padding-bottom: 53px;
     }
     .footer::after {
         content: "";
@@ -2254,7 +2253,6 @@ body {
         flex-direction: row;
         justify-content: space-between;
         align-items: center;
-        margin-top: 75px;
         min-height: 431px;
         width: 900px;
     }
@@ -2305,7 +2303,7 @@ body {
         margin: 0;
     }
     .footer-logo-surface {
-        margin: 250px auto 53px;
+        margin: 250px auto 0;
         box-sizing: border-box;
         width: 204px;
         position: relative;
